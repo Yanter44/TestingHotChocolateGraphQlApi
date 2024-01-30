@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UpY4vAX12lhMPgTvwPSbRjWF4N9izkcYXEd7DxVM6Yk=",
+  "Source": "TestApiForPostgreAndGraphQL",
+  "BasePath": "_content/TestApiForPostgreAndGraphQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
